@@ -54,7 +54,7 @@
 ---
 
 ## 📌 文件结构
-
+```
 01_zentao_demo_test/
 │
 ├── testcases/
@@ -65,10 +65,10 @@
 │   └── defect_report.md
 │
 ├── scripts/
-│   └── auto_scripts.py   # 可选：自动化脚本
+│   └── auto_scripts.py # 可选：自动化脚本
 │
 └── README.md
-
+```
 ---
 
 ## 📌 说明
